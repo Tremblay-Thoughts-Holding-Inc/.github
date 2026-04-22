@@ -19,7 +19,7 @@ TTH is the intellectual property stewardship entity of the Tremblay corporate ec
 
 | Entity | Abbr. | Role |
 |--------|-------|------|
-| Tremblay Holdings | TTH | Parent organization — strategic governance and capital allocation |
+| Tremblay Holdings | TH | Parent organization — strategic governance and capital allocation |
 | **Tremblay Thoughts Holding Inc.** | **TTH** | **This org** — IP vault, patents, licensing, foundational IP stewardship |
 | Technology Group Tremblay Inc. | TGT | R&D engine — generates IP assigned to TTH |
 | Tremblay Operations Group | TOG | OpsCo — licenses IP from TTH for enterprise deployment |
